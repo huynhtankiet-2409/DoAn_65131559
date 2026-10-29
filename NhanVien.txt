@@ -1,0 +1,6 @@
+1|staff01|123456|Tran Thi Thuy Ngan|Staff
+2|staff02|123456|Le Dinh Vu|Staff
+3|staff03|123456|Pham Minh Tuan|Staff
+4|staff04|123456|Hoang Thi Mai|Staff
+5|staff05|123456|Doan Van Hau|Staff
+6|staff06|123456|Nguyen Thi Bich Kieu|Staff
